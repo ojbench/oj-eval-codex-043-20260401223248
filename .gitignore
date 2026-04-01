@@ -1,0 +1,11 @@
+\# Build artifacts
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+code
+
+\# Local env/token files
+.env
+.acmoj_token
+
